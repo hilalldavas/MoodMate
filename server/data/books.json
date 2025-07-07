@@ -1,0 +1,1513 @@
+[{
+        "title": "Things Fall Apart",
+        "author": "Chinua Achebe",
+        "country": "Nigeria",
+        "year": 1958,
+        "pages": 209,
+        "language": "English",
+        "imageLink": "images/things-fall-apart.jpg",
+        "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Fairy tales",
+        "author": "Hans Christian Andersen",
+        "country": "Denmark",
+        "year": 1836,
+        "pages": 784,
+        "language": "Danish",
+        "imageLink": "images/fairy-tales.jpg",
+        "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Fantasy",
+            "Folklore",
+            "Children"
+        ]
+    },
+    {
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "country": "Italy",
+        "year": 1315,
+        "pages": 928,
+        "language": "Italian",
+        "imageLink": "images/the-divine-comedy.jpg",
+        "link": "https://en.wikipedia.org/wiki/Divine_Comedy",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Religious",
+            "Epic"
+        ]
+    },
+    {
+        "title": "The Epic Of Gilgamesh",
+        "author": "Unknown",
+        "country": "Sumer and Akkadian Empire",
+        "year": -1700,
+        "pages": 160,
+        "language": "Akkadian",
+        "imageLink": "images/the-epic-of-gilgamesh.jpg",
+        "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Epic",
+            "Mythology"
+        ]
+    },
+    {
+        "title": "The Book Of Job",
+        "author": "Unknown",
+        "country": "Achaemenid Empire",
+        "year": -600,
+        "pages": 176,
+        "language": "Hebrew",
+        "imageLink": "images/the-book-of-job.jpg",
+        "link": "https://en.wikipedia.org/wiki/Book_of_Job",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "One Thousand and One Nights",
+        "author": "Unknown",
+        "country": "India/Iran/Iraq/Egypt/Tajikistan",
+        "year": 1200,
+        "pages": 288,
+        "language": "Arabic",
+        "imageLink": "images/one-thousand-and-one-nights.jpg",
+        "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Psychological",
+            "Dark"
+        ]
+    },
+    {
+        "title": "Njál's Saga",
+        "author": "Unknown",
+        "country": "Iceland",
+        "year": 1350,
+        "pages": 384,
+        "language": "Old Norse",
+        "imageLink": "images/njals-saga.jpg",
+        "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "country": "United Kingdom",
+        "year": 1813,
+        "pages": 226,
+        "language": "English",
+        "imageLink": "images/pride-and-prejudice.jpg",
+        "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Le Père Goriot",
+        "author": "Honoré de Balzac",
+        "country": "France",
+        "year": 1835,
+        "pages": 443,
+        "language": "French",
+        "imageLink": "images/le-pere-goriot.jpg",
+        "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+        "author": "Samuel Beckett",
+        "country": "Republic of Ireland",
+        "year": 1952,
+        "pages": 256,
+        "language": "French, English",
+        "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
+        "link": "https://en.wikipedia.org/wiki/Molloy_(novel)",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Decameron",
+        "author": "Giovanni Boccaccio",
+        "country": "Italy",
+        "year": 1351,
+        "pages": 1024,
+        "language": "Italian",
+        "imageLink": "images/the-decameron.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Decameron",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Ficciones",
+        "author": "Jorge Luis Borges",
+        "country": "Argentina",
+        "year": 1965,
+        "pages": 224,
+        "language": "Spanish",
+        "imageLink": "images/ficciones.jpg",
+        "link": "https://en.wikipedia.org/wiki/Ficciones",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "country": "United Kingdom",
+        "year": 1847,
+        "pages": 342,
+        "language": "English",
+        "imageLink": "images/wuthering-heights.jpg",
+        "link": "https://en.wikipedia.org/wiki/Wuthering_Heights",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "country": "Algeria, French Empire",
+        "year": 1942,
+        "pages": 185,
+        "language": "French",
+        "imageLink": "images/l-etranger.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Existential",
+            "Philosophical"
+        ]
+    },
+    {
+        "title": "Poems",
+        "author": "Paul Celan",
+        "country": "Romania, France",
+        "year": 1952,
+        "pages": 320,
+        "language": "German",
+        "imageLink": "images/poems-paul-celan.jpg",
+        "link": "",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Poetry"
+        ]
+    },
+    {
+        "title": "Journey to the End of the Night",
+        "author": "Louis-Ferdinand Céline",
+        "country": "France",
+        "year": 1932,
+        "pages": 505,
+        "language": "French",
+        "imageLink": "images/voyage-au-bout-de-la-nuit.jpg",
+        "link": "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Psychological",
+            "Dark"
+        ]
+    },
+    {
+        "title": "Don Quijote De La Mancha",
+        "author": "Miguel de Cervantes",
+        "country": "Spain",
+        "year": 1610,
+        "pages": 1056,
+        "language": "Spanish",
+        "imageLink": "images/don-quijote-de-la-mancha.jpg",
+        "link": "https://en.wikipedia.org/wiki/Don_Quixote",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Canterbury Tales",
+        "author": "Geoffrey Chaucer",
+        "country": "England",
+        "year": 1450,
+        "pages": 544,
+        "language": "English",
+        "imageLink": "images/the-canterbury-tales.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Folklore"
+        ]
+    },
+    {
+        "title": "Stories",
+        "author": "Anton Chekhov",
+        "country": "Russia",
+        "year": 1886,
+        "pages": 194,
+        "language": "Russian",
+        "imageLink": "images/stories-of-anton-chekhov.jpg",
+        "link": "https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Nostromo",
+        "author": "Joseph Conrad",
+        "country": "United Kingdom",
+        "year": 1904,
+        "pages": 320,
+        "language": "English",
+        "imageLink": "images/nostromo.jpg",
+        "link": "https://en.wikipedia.org/wiki/Nostromo",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "country": "United Kingdom",
+        "year": 1861,
+        "pages": 194,
+        "language": "English",
+        "imageLink": "images/great-expectations.jpg",
+        "link": "https://en.wikipedia.org/wiki/Great_Expectations",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Jacques the Fatalist",
+        "author": "Denis Diderot",
+        "country": "France",
+        "year": 1796,
+        "pages": 596,
+        "language": "French",
+        "imageLink": "images/jacques-the-fatalist.jpg",
+        "link": "https://en.wikipedia.org/wiki/Jacques_the_Fatalist",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Berlin Alexanderplatz",
+        "author": "Alfred Döblin",
+        "country": "Germany",
+        "year": 1929,
+        "pages": 600,
+        "language": "German",
+        "imageLink": "images/berlin-alexanderplatz.jpg",
+        "link": "https://en.wikipedia.org/wiki/Berlin_Alexanderplatz",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "country": "Russia",
+        "year": 1866,
+        "pages": 551,
+        "language": "Russian",
+        "imageLink": "images/crime-and-punishment.jpg",
+        "link": "https://en.wikipedia.org/wiki/Crime_and_Punishment",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Idiot",
+        "author": "Fyodor Dostoevsky",
+        "country": "Russia",
+        "year": 1869,
+        "pages": 656,
+        "language": "Russian",
+        "imageLink": "images/the-idiot.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Idiot",
+        "type": "book",
+        "mood": "sad",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Possessed",
+        "author": "Fyodor Dostoevsky",
+        "country": "Russia",
+        "year": 1872,
+        "pages": 768,
+        "language": "Russian",
+        "imageLink": "images/the-possessed.jpg",
+        "link": "https://en.wikipedia.org/wiki/Demons_(Dostoyevsky_novel)",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "country": "Russia",
+        "year": 1880,
+        "pages": 824,
+        "language": "Russian",
+        "imageLink": "images/the-brothers-karamazov.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Middlemarch",
+        "author": "George Eliot",
+        "country": "United Kingdom",
+        "year": 1871,
+        "pages": 800,
+        "language": "English",
+        "imageLink": "images/middlemarch.jpg",
+        "link": "https://en.wikipedia.org/wiki/Middlemarch",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Invisible Man",
+        "author": "Ralph Ellison",
+        "country": "United States",
+        "year": 1952,
+        "pages": 581,
+        "language": "English",
+        "imageLink": "images/invisible-man.jpg",
+        "link": "https://en.wikipedia.org/wiki/Invisible_Man",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Medea",
+        "author": "Euripides",
+        "country": "Greece",
+        "year": -431,
+        "pages": 104,
+        "language": "Greek",
+        "imageLink": "images/medea.jpg",
+        "link": "https://en.wikipedia.org/wiki/Medea_(play)",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Absalom, Absalom!",
+        "author": "William Faulkner",
+        "country": "United States",
+        "year": 1936,
+        "pages": 313,
+        "language": "English",
+        "imageLink": "images/absalom-absalom.jpg",
+        "link": "https://en.wikipedia.org/wiki/Absalom,_Absalom!",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Sound and the Fury",
+        "author": "William Faulkner",
+        "country": "United States",
+        "year": 1929,
+        "pages": 326,
+        "language": "English",
+        "imageLink": "images/the-sound-and-the-fury.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Modernist",
+            "Psychological"
+        ]
+    },
+    {
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert",
+        "country": "France",
+        "year": 1857,
+        "pages": 528,
+        "language": "French",
+        "imageLink": "images/madame-bovary.jpg",
+        "link": "https://en.wikipedia.org/wiki/Madame_Bovary",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Sentimental Education",
+        "author": "Gustave Flaubert",
+        "country": "France",
+        "year": 1869,
+        "pages": 606,
+        "language": "French",
+        "imageLink": "images/l-education-sentimentale.jpg",
+        "link": "https://en.wikipedia.org/wiki/Sentimental_Education",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Gypsy Ballads",
+        "author": "Federico García Lorca",
+        "country": "Spain",
+        "year": 1928,
+        "pages": 218,
+        "language": "Spanish",
+        "imageLink": "images/gypsy-ballads.jpg",
+        "link": "https://en.wikipedia.org/wiki/Gypsy_Ballads",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "country": "Colombia",
+        "year": 1967,
+        "pages": 417,
+        "language": "Spanish",
+        "imageLink": "images/one-hundred-years-of-solitude.jpg",
+        "link": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Love in the Time of Cholera",
+        "author": "Gabriel García Márquez",
+        "country": "Colombia",
+        "year": 1985,
+        "pages": 368,
+        "language": "Spanish",
+        "imageLink": "images/love-in-the-time-of-cholera.jpg",
+        "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Romance"
+        ]
+    },
+    {
+        "title": "Faust",
+        "author": "Johann Wolfgang von Goethe",
+        "country": "Saxe-Weimar",
+        "year": 1832,
+        "pages": 158,
+        "language": "German",
+        "imageLink": "images/faust.jpg",
+        "link": "https://en.wikipedia.org/wiki/Goethe%27s_Faust",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Dead Souls",
+        "author": "Nikolai Gogol",
+        "country": "Russia",
+        "year": 1842,
+        "pages": 432,
+        "language": "Russian",
+        "imageLink": "images/dead-souls.jpg",
+        "link": "https://en.wikipedia.org/wiki/Dead_Souls",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Tin Drum",
+        "author": "Günter Grass",
+        "country": "Germany",
+        "year": 1959,
+        "pages": 600,
+        "language": "German",
+        "imageLink": "images/the-tin-drum.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Tin_Drum",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Devil to Pay in the Backlands",
+        "author": "João Guimarães Rosa",
+        "country": "Brazil",
+        "year": 1956,
+        "pages": 494,
+        "language": "Portuguese",
+        "imageLink": "images/the-devil-to-pay-in-the-backlands.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Devil_to_Pay_in_the_Backlands",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Hunger",
+        "author": "Knut Hamsun",
+        "country": "Norway",
+        "year": 1890,
+        "pages": 176,
+        "language": "Norwegian",
+        "imageLink": "images/hunger.jpg",
+        "link": "https://en.wikipedia.org/wiki/Hunger_(Hamsun_novel)",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "country": "United States",
+        "year": 1952,
+        "pages": 128,
+        "language": "English",
+        "imageLink": "images/the-old-man-and-the-sea.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Iliad",
+        "author": "Homer",
+        "country": "Greece",
+        "year": -735,
+        "pages": 608,
+        "language": "Greek",
+        "imageLink": "images/the-iliad-of-homer.jpg",
+        "link": "https://en.wikipedia.org/wiki/Iliad",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Odyssey",
+        "author": "Homer",
+        "country": "Greece",
+        "year": -800,
+        "pages": 374,
+        "language": "Greek",
+        "imageLink": "images/the-odyssey-of-homer.jpg",
+        "link": "https://en.wikipedia.org/wiki/Odyssey",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Adventure",
+            "Mythology"
+        ]
+    },
+    {
+        "title": "A Doll's House",
+        "author": "Henrik Ibsen",
+        "country": "Norway",
+        "year": 1879,
+        "pages": 68,
+        "language": "Norwegian",
+        "imageLink": "images/a-Dolls-house.jpg",
+        "link": "https://en.wikipedia.org/wiki/A_Doll%27s_House",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "country": "Irish Free State",
+        "year": 1922,
+        "pages": 228,
+        "language": "English",
+        "imageLink": "images/ulysses.jpg",
+        "link": "https://en.wikipedia.org/wiki/Ulysses_(novel)",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Stories",
+        "author": "Franz Kafka",
+        "country": "Czechoslovakia",
+        "year": 1924,
+        "pages": 488,
+        "language": "German",
+        "imageLink": "images/stories-of-franz-kafka.jpg",
+        "link": "https://en.wikipedia.org/wiki/Franz_Kafka_bibliography#Short_stories",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Trial",
+        "author": "Franz Kafka",
+        "country": "Czechoslovakia",
+        "year": 1925,
+        "pages": 160,
+        "language": "German",
+        "imageLink": "images/the-trial.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Trial",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Absurdist",
+            "Existential"
+        ]
+    },
+    {
+        "title": "The Castle",
+        "author": "Franz Kafka",
+        "country": "Czechoslovakia",
+        "year": 1926,
+        "pages": 352,
+        "language": "German",
+        "imageLink": "images/the-castle.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Castle_(novel)",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The recognition of Shakuntala",
+        "author": "Kālidāsa",
+        "country": "India",
+        "year": 150,
+        "pages": 147,
+        "language": "Sanskrit",
+        "imageLink": "images/the-recognition-of-shakuntala.jpg",
+        "link": "https://en.wikipedia.org/wiki/Abhij%C3%B1%C4%81na%C5%9B%C4%81kuntalam",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Sound of the Mountain",
+        "author": "Yasunari Kawabata",
+        "country": "Japan",
+        "year": 1954,
+        "pages": 288,
+        "language": "Japanese",
+        "imageLink": "images/the-sound-of-the-mountain.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Sound_of_the_Mountain",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Zorba the Greek",
+        "author": "Nikos Kazantzakis",
+        "country": "Greece",
+        "year": 1946,
+        "pages": 368,
+        "language": "Greek",
+        "imageLink": "images/zorba-the-greek.jpg",
+        "link": "https://en.wikipedia.org/wiki/Zorba_the_Greek",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Sons and Lovers",
+        "author": "D. H. Lawrence",
+        "country": "United Kingdom",
+        "year": 1913,
+        "pages": 432,
+        "language": "English",
+        "imageLink": "images/sons-and-lovers.jpg",
+        "link": "https://en.wikipedia.org/wiki/Sons_and_Lovers",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Romance"
+        ]
+    },
+    {
+        "title": "Independent People",
+        "author": "Halldór Laxness",
+        "country": "Iceland",
+        "year": 1934,
+        "pages": 470,
+        "language": "Icelandic",
+        "imageLink": "images/independent-people.jpg",
+        "link": "https://en.wikipedia.org/wiki/Independent_People",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Poems",
+        "author": "Giacomo Leopardi",
+        "country": "Italy",
+        "year": 1818,
+        "pages": 184,
+        "language": "Italian",
+        "imageLink": "images/poems-giacomo-leopardi.jpg",
+        "link": "",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Poetry"
+        ]
+    },
+    {
+        "title": "The Golden Notebook",
+        "author": "Doris Lessing",
+        "country": "United Kingdom",
+        "year": 1962,
+        "pages": 688,
+        "language": "English",
+        "imageLink": "images/the-golden-notebook.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Golden_Notebook",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Pippi Longstocking",
+        "author": "Astrid Lindgren",
+        "country": "Sweden",
+        "year": 1945,
+        "pages": 160,
+        "language": "Swedish",
+        "imageLink": "images/pippi-longstocking.jpg",
+        "link": "https://en.wikipedia.org/wiki/Pippi_Longstocking",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Diary of a Madman",
+        "author": "Lu Xun",
+        "country": "China",
+        "year": 1918,
+        "pages": 389,
+        "language": "Chinese",
+        "imageLink": "images/diary-of-a-madman.jpg",
+        "link": "https://en.wikipedia.org/wiki/A_Madman%27s_Diary",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Children of Gebelawi",
+        "author": "Naguib Mahfouz",
+        "country": "Egypt",
+        "year": 1959,
+        "pages": 355,
+        "language": "Arabic",
+        "imageLink": "images/children-of-gebelawi.jpg",
+        "link": "https://en.wikipedia.org/wiki/Children_of_Gebelawi",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Buddenbrooks",
+        "author": "Thomas Mann",
+        "country": "Germany",
+        "year": 1901,
+        "pages": 736,
+        "language": "German",
+        "imageLink": "images/buddenbrooks.jpg",
+        "link": "https://en.wikipedia.org/wiki/Buddenbrooks",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Magic Mountain",
+        "author": "Thomas Mann",
+        "country": "Germany",
+        "year": 1924,
+        "pages": 720,
+        "language": "German",
+        "imageLink": "images/the-magic-mountain.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Magic_Mountain",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "country": "United States",
+        "year": 1851,
+        "pages": 378,
+        "language": "English",
+        "imageLink": "images/moby-dick.jpg",
+        "link": "https://en.wikipedia.org/wiki/Moby-Dick",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Essays",
+        "author": "Michel de Montaigne",
+        "country": "France",
+        "year": 1595,
+        "pages": 404,
+        "language": "French",
+        "imageLink": "images/essais.jpg",
+        "link": "https://en.wikipedia.org/wiki/Essays_(Montaigne)",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "History",
+        "author": "Elsa Morante",
+        "country": "Italy",
+        "year": 1974,
+        "pages": 600,
+        "language": "Italian",
+        "imageLink": "images/history.jpg",
+        "link": "https://en.wikipedia.org/wiki/History_(novel)",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "country": "United States",
+        "year": 1987,
+        "pages": 321,
+        "language": "English",
+        "imageLink": "images/beloved.jpg",
+        "link": "https://en.wikipedia.org/wiki/Beloved_(novel)",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Romance"
+        ]
+    },
+    {
+        "title": "The Tale of Genji",
+        "author": "Murasaki Shikibu",
+        "country": "Japan",
+        "year": 1006,
+        "pages": 1360,
+        "language": "Japanese",
+        "imageLink": "images/the-tale-of-genji.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Tale_of_Genji",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Folklore"
+        ]
+    },
+    {
+        "title": "The Man Without Qualities",
+        "author": "Robert Musil",
+        "country": "Austria",
+        "year": 1931,
+        "pages": 365,
+        "language": "German",
+        "imageLink": "images/the-man-without-qualities.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Man_Without_Qualities",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Lolita",
+        "author": "Vladimir Nabokov",
+        "country": "Russia/United States",
+        "year": 1955,
+        "pages": 317,
+        "language": "English",
+        "imageLink": "images/lolita.jpg",
+        "link": "https://en.wikipedia.org/wiki/Lolita",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Nineteen Eighty-Four",
+        "author": "George Orwell",
+        "country": "United Kingdom",
+        "year": 1949,
+        "pages": 272,
+        "language": "English",
+        "imageLink": "images/nineteen-eighty-four.jpg",
+        "link": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Metamorphoses",
+        "author": "Ovid",
+        "country": "Roman Empire",
+        "year": 100,
+        "pages": 576,
+        "language": "Classical Latin",
+        "imageLink": "images/the-metamorphoses-of-ovid.jpg",
+        "link": "https://en.wikipedia.org/wiki/Metamorphoses",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Book of Disquiet",
+        "author": "Fernando Pessoa",
+        "country": "Portugal",
+        "year": 1928,
+        "pages": 272,
+        "language": "Portuguese",
+        "imageLink": "images/the-book-of-disquiet.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Book_of_Disquiet",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Tales",
+        "author": "Edgar Allan Poe",
+        "country": "United States",
+        "year": 1950,
+        "pages": 842,
+        "language": "English",
+        "imageLink": "images/tales-and-poems-of-edgar-allan-poe.jpg",
+        "link": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_bibliography#Tales",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Folklore"
+        ]
+    },
+    {
+        "title": "In Search of Lost Time",
+        "author": "Marcel Proust",
+        "country": "France",
+        "year": 1920,
+        "pages": 2408,
+        "language": "French",
+        "imageLink": "images/a-la-recherche-du-temps-perdu.jpg",
+        "link": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Gargantua and Pantagruel",
+        "author": "François Rabelais",
+        "country": "France",
+        "year": 1533,
+        "pages": 623,
+        "language": "French",
+        "imageLink": "images/gargantua-and-pantagruel.jpg",
+        "link": "https://en.wikipedia.org/wiki/Gargantua_and_Pantagruel",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Pedro Páramo",
+        "author": "Juan Rulfo",
+        "country": "Mexico",
+        "year": 1955,
+        "pages": 124,
+        "language": "Spanish",
+        "imageLink": "images/pedro-paramo.jpg",
+        "link": "https://en.wikipedia.org/wiki/Pedro_P%C3%A1ramo",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Masnavi",
+        "author": "Rumi",
+        "country": "Sultanate of Rum",
+        "year": 1236,
+        "pages": 438,
+        "language": "Persian",
+        "imageLink": "images/the-masnavi.jpg",
+        "link": "https://en.wikipedia.org/wiki/Masnavi",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Midnight's Children",
+        "author": "Salman Rushdie",
+        "country": "United Kingdom, India",
+        "year": 1981,
+        "pages": 536,
+        "language": "English",
+        "imageLink": "images/midnights-children.jpg",
+        "link": "https://en.wikipedia.org/wiki/Midnight%27s_Children",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Psychological",
+            "Dark"
+        ]
+    },
+    {
+        "title": "Bostan",
+        "author": "Saadi",
+        "country": "Persia, Persian Empire",
+        "year": 1257,
+        "pages": 298,
+        "language": "Persian",
+        "imageLink": "images/bostan.jpg",
+        "link": "https://en.wikipedia.org/wiki/Bustan_(book)",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Season of Migration to the North",
+        "author": "Tayeb Salih",
+        "country": "Sudan",
+        "year": 1966,
+        "pages": 139,
+        "language": "Arabic",
+        "imageLink": "images/season-of-migration-to-the-north.jpg",
+        "link": "https://en.wikipedia.org/wiki/Season_of_Migration_to_the_North",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Blindness",
+        "author": "José Saramago",
+        "country": "Portugal",
+        "year": 1995,
+        "pages": 352,
+        "language": "Portuguese",
+        "imageLink": "images/blindness.jpg",
+        "link": "https://en.wikipedia.org/wiki/Blindness_(novel)",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "country": "England",
+        "year": 1603,
+        "pages": 432,
+        "language": "English",
+        "imageLink": "images/hamlet.jpg",
+        "link": "https://en.wikipedia.org/wiki/Hamlet",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "King Lear",
+        "author": "William Shakespeare",
+        "country": "England",
+        "year": 1608,
+        "pages": 384,
+        "language": "English",
+        "imageLink": "images/king-lear.jpg",
+        "link": "https://en.wikipedia.org/wiki/King_Lear",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Othello",
+        "author": "William Shakespeare",
+        "country": "England",
+        "year": 1609,
+        "pages": 314,
+        "language": "English",
+        "imageLink": "images/othello.jpg",
+        "link": "https://en.wikipedia.org/wiki/Othello",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Oedipus the King",
+        "author": "Sophocles",
+        "country": "Greece",
+        "year": -430,
+        "pages": 88,
+        "language": "Greek",
+        "imageLink": "images/oedipus-the-king.jpg",
+        "link": "https://en.wikipedia.org/wiki/Oedipus_the_King",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Red and the Black",
+        "author": "Stendhal",
+        "country": "France",
+        "year": 1830,
+        "pages": 576,
+        "language": "French",
+        "imageLink": "images/le-rouge-et-le-noir.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Red_and_the_Black",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Life And Opinions of Tristram Shandy",
+        "author": "Laurence Sterne",
+        "country": "England",
+        "year": 1760,
+        "pages": 640,
+        "language": "English",
+        "imageLink": "images/the-life-and-opinions-of-tristram-shandy.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Confessions of Zeno",
+        "author": "Italo Svevo",
+        "country": "Italy",
+        "year": 1923,
+        "pages": 412,
+        "language": "Italian",
+        "imageLink": "images/confessions-of-zeno.jpg",
+        "link": "https://en.wikipedia.org/wiki/Zeno%27s_Conscience",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Gulliver's Travels",
+        "author": "Jonathan Swift",
+        "country": "Ireland",
+        "year": 1726,
+        "pages": 178,
+        "language": "English",
+        "imageLink": "images/gullivers-travels.jpg",
+        "link": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "country": "Russia",
+        "year": 1867,
+        "pages": 1296,
+        "language": "Russian",
+        "imageLink": "images/war-and-peace.jpg",
+        "link": "https://en.wikipedia.org/wiki/War_and_Peace",
+        "type": "book",
+        "mood": "romantic",
+        "genres": [
+            "Drama",
+            "Historical"
+        ]
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "country": "Russia",
+        "year": 1877,
+        "pages": 864,
+        "language": "Russian",
+        "imageLink": "images/anna-karenina.jpg",
+        "link": "https://en.wikipedia.org/wiki/Anna_Karenina",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Death of Ivan Ilyich",
+        "author": "Leo Tolstoy",
+        "country": "Russia",
+        "year": 1886,
+        "pages": 92,
+        "language": "Russian",
+        "imageLink": "images/the-death-of-ivan-ilyich.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "country": "United States",
+        "year": 1884,
+        "pages": 224,
+        "language": "English",
+        "imageLink": "images/the-adventures-of-huckleberry-finn.jpg",
+        "link": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Ramayana",
+        "author": "Valmiki",
+        "country": "India",
+        "year": -450,
+        "pages": 152,
+        "language": "Sanskrit",
+        "imageLink": "images/ramayana.jpg",
+        "link": "https://en.wikipedia.org/wiki/Ramayana",
+        "type": "book",
+        "mood": "happy",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "The Aeneid",
+        "author": "Virgil",
+        "country": "Roman Empire",
+        "year": -23,
+        "pages": 442,
+        "language": "Classical Latin",
+        "imageLink": "images/the-aeneid.jpg",
+        "link": "https://en.wikipedia.org/wiki/Aeneid",
+        "type": "book",
+        "mood": "angry",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Mahabharata",
+        "author": "Vyasa",
+        "country": "India",
+        "year": -700,
+        "pages": 276,
+        "language": "Sanskrit",
+        "imageLink": "images/the-mahab-harata.jpg",
+        "link": "https://en.wikipedia.org/wiki/Mahabharata",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Leaves of Grass",
+        "author": "Walt Whitman",
+        "country": "United States",
+        "year": 1855,
+        "pages": 152,
+        "language": "English",
+        "imageLink": "images/leaves-of-grass.jpg",
+        "link": "https://en.wikipedia.org/wiki/Leaves_of_Grass",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Mrs Dalloway",
+        "author": "Virginia Woolf",
+        "country": "United Kingdom",
+        "year": 1925,
+        "pages": 216,
+        "language": "English",
+        "imageLink": "images/mrs-dalloway.jpg",
+        "link": "https://en.wikipedia.org/wiki/Mrs_Dalloway",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "To the Lighthouse",
+        "author": "Virginia Woolf",
+        "country": "United Kingdom",
+        "year": 1927,
+        "pages": 209,
+        "language": "English",
+        "imageLink": "images/to-the-lighthouse.jpg",
+        "link": "https://en.wikipedia.org/wiki/To_the_Lighthouse",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Memoirs of Hadrian",
+        "author": "Marguerite Yourcenar",
+        "country": "France/Belgium",
+        "year": 1951,
+        "pages": 408,
+        "language": "French",
+        "imageLink": "images/memoirs-of-hadrian.jpg",
+        "link": "https://en.wikipedia.org/wiki/Memoirs_of_Hadrian",
+        "type": "book",
+        "mood": "adventurous",
+        "genres": [
+            "Fiction"
+        ]
+    }
+]
