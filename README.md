@@ -1,7 +1,7 @@
 # 🎭 MoodMate
 
 <div align="center">
-  <img src="client/public/logo.png" alt="MoodMate Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/hilalldavas/MoodMate/main/client/public/logo.png" alt="MoodMate Logo" width="200"/>
   <p><strong>AI-Powered Mood-Based Content Recommendation Platform</strong></p>
 </div>
 
