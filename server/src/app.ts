@@ -32,16 +32,19 @@ app.get('/', (req: Request, res: Response) => {
   res.send('MoodMadePr API Running ✅');
 });
 
+// Start server
+app.listen(PORT, () => {
+  console.log(`✅ Server running on port ${PORT}`);
+});
+
 // MongoDB Connection
 mongoose.connect(process.env.MONGO_URI as string)
   .then(() => {
     console.log('✅ MongoDB Connected');
-    app.listen(PORT, () => {
-      console.log(`✅ Server running on port ${PORT}`);
-    });
   })
   .catch((err: Error) => {
     console.error('❌ MongoDB connection error:', err.message);
+    console.log('⚠️  Server running without database. Some features may not work.');
   });
 
 export default app;

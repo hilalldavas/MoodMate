@@ -142,26 +142,38 @@ export const googleLogin = async (req: Request, res: Response) => {
   const { email, name } = req.body;
 
   try {
+    console.log('🔵 Google login attempt:', { email, name });
+    
     let user = await User.findOne({ email });
 
     if (!user) {
+      console.log('🔵 Creating new user for:', email);
       user = await User.create({
         name,
         email,
         password: '',
         isVerified: true,
       });
+      console.log('✅ New user created:', user._id);
+    } else {
+      console.log('✅ Existing user found:', user._id);
+    }
+
+    if (!process.env.JWT_SECRET) {
+      throw new Error('JWT_SECRET is not defined');
     }
 
     const token = jwt.sign({ 
       id: user._id,
       name: user.name,
       email: user.email
-    }, process.env.JWT_SECRET!, { expiresIn: '7d' });
+    }, process.env.JWT_SECRET, { expiresIn: '7d' });
 
+    console.log('✅ Google login successful for:', email);
     res.status(200).json({ token, user: { id: user._id, name: user.name, email: user.email } });
   } catch (error) {
-    console.error('Google login error:', error);
+    console.error('❌ Google login error:', error);
+    console.error('📛 Error details:', error instanceof Error ? error.message : error);
     res.status(500).json({ message: 'Google ile giriş başarısız oldu!' });
   }
 };

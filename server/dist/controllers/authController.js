@@ -113,7 +113,11 @@ const login = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
         if (!isPasswordCorrect) {
             return res.status(400).json({ message: 'Şifre yanlış!' });
         }
-        const token = jsonwebtoken_1.default.sign({ id: user._id }, process.env.JWT_SECRET, { expiresIn: '7d' });
+        const token = jsonwebtoken_1.default.sign({
+            id: user._id,
+            name: user.name,
+            email: user.email
+        }, process.env.JWT_SECRET, { expiresIn: '7d' });
         res.status(200).json({ token, user: { id: user._id, name: user.name, email: user.email } });
     }
     catch (error) {
@@ -125,20 +129,35 @@ exports.login = login;
 const googleLogin = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     const { email, name } = req.body;
     try {
+        console.log('🔵 Google login attempt:', { email, name });
         let user = yield User_1.default.findOne({ email });
         if (!user) {
+            console.log('🔵 Creating new user for:', email);
             user = yield User_1.default.create({
                 name,
                 email,
                 password: '',
                 isVerified: true,
             });
+            console.log('✅ New user created:', user._id);
         }
-        const token = jsonwebtoken_1.default.sign({ id: user._id }, process.env.JWT_SECRET, { expiresIn: '7d' });
+        else {
+            console.log('✅ Existing user found:', user._id);
+        }
+        if (!process.env.JWT_SECRET) {
+            throw new Error('JWT_SECRET is not defined');
+        }
+        const token = jsonwebtoken_1.default.sign({
+            id: user._id,
+            name: user.name,
+            email: user.email
+        }, process.env.JWT_SECRET, { expiresIn: '7d' });
+        console.log('✅ Google login successful for:', email);
         res.status(200).json({ token, user: { id: user._id, name: user.name, email: user.email } });
     }
     catch (error) {
-        console.error('Google login error:', error);
+        console.error('❌ Google login error:', error);
+        console.error('📛 Error details:', error instanceof Error ? error.message : error);
         res.status(500).json({ message: 'Google ile giriş başarısız oldu!' });
     }
 });
